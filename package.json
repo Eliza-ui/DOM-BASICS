@@ -2,5 +2,24 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.1.15",
     "tailwindcss": "^4.1.15"
-  }
+  },
+  "name": "dombasics",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000O\u0000M\u0000-\u0000B\u0000A\u0000S\u0000I\u0000C\u0000S\u0000\r\u0000 \u0000",
+  "main": "process.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eliza-ui/DOM-BASICS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eliza-ui/DOM-BASICS/issues"
+  },
+  "homepage": "https://github.com/Eliza-ui/DOM-BASICS#readme"
 }
